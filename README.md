@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!%20🌍&height=120&section=header&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <b>pxprince</b></h1>
+<h1 align="center">Hi 👋, I'm <b>Prince</b></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Student+%7C+Aspiring+Web+Developer;Learning+Step+by+Step;Building+Simple+Projects;Always+Curious+to+Learn" />
@@ -15,11 +15,6 @@
 ---
 
 # 💫 About Me:
-
-<p align="right">
-  <img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JpaXU4aHp1c2d0OW8ybjV4emNmenFmd3I2MXVjaWwzZmtyZ3FlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI1erPMTMBFmNHi/giphy.gif" />
-</p>
-
 - 🎓 I am studying at **Dronacharya Group of Institute**.
 - 🌱 I am currently learning the basics of **web development**.
 - 💡 I like building small and useful projects.
@@ -40,7 +35,7 @@
 ## 🔧 Tools & Languages I Am Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode&theme=dark" />
 </p>
 
 ---
